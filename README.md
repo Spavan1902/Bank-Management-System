@@ -52,3 +52,14 @@ After completing all the operation  user must be logout form the system which sh
 - It does not support multiple users at the same time. <br>
 - Security features are basic compared to real banking systems. <br>
 </p>
+
+<h2>Screenshot of  all the fuction when run in terminal.<br></h2>
+<img src="Screenshot 2026-04-29 152239.png" alt="Employee login">
+<img src="Screenshot 2026-04-29 000450.png" alt="Account Creation">
+<img src="Screenshot 2026-04-29 000534.png" alt="Deposit">
+<img src="Screenshot 2026-04-29 000608.png" alt="withdrawl">
+<img src="Screenshot 2026-04-29 001155.png" alt="Passbook">
+<img src="Screenshot 2026-04-29 000927.png" alt="Balance inquary">
+<img src="Screenshot 2026-04-29 001634.png" alt="Close account">
+<img src="Screenshot 2026-04-29 001550.png" alt="Transaction history">
+<img src="Screenshot 2026-04-29 152334.png" alt="System logout">
